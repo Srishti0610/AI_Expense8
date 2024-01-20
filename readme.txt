@@ -1,11 +1,10 @@
 Name: Srishti Madan Raikar
-UTA ID: 1002033348
 
 The program is coded in Python
 Version Python 3.10.8
 
 The Code Structure:
-First there are import statements
+First, there are import statements
 then there is a function to select the algorithm
 
 Then there are functions for different algorithms
@@ -19,7 +18,7 @@ IDS
 
 The DLS asks for user input for the depth limit
 
-There are helper functions to perform sort, calculate heuristics and check for moves
+There are helper functions to perform sorting, calculate heuristics, and check for moves
 
 
 Example to run the code:
